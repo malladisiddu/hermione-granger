@@ -1,2 +1,2 @@
-# Hermione-granger
+# Hermione Granger
 Slack integrated Reddit bot
